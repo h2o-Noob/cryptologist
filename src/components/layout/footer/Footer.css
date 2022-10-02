@@ -1,0 +1,10 @@
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.footer > span{
+    margin: 3vh;
+    font-size: 30px;
+}

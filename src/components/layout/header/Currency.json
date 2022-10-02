@@ -1,0 +1,292 @@
+{
+    "Currencies": [
+      {
+        "ISOCurrencyCode": "EUR",
+        "CurrencySymbol": "€",
+        "CurrencyEnglishName": "Euro",
+        "CountryName": "Andorra",
+        "CountryThreeLetterCode": "AND",
+        "CountryISOTwoLetterCode": "AD",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "INR",
+        "CurrencySymbol": "₹",
+        "CurrencyEnglishName": "Indian Rupee",
+        "CountryName": "India",
+        "CountryThreeLetterCode": "IND",
+        "CountryISOTwoLetterCode": "IN",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "USD",
+        "CurrencySymbol": "$",
+        "CurrencyEnglishName": "US Dollar",
+        "CountryName": "American Samoa",
+        "CountryThreeLetterCode": "ASM",
+        "CountryISOTwoLetterCode": "AS",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "JPY",
+        "CurrencySymbol": "¥",
+        "CurrencyEnglishName": "Japanese Yen",
+        "CountryName": "Japan",
+        "CountryThreeLetterCode": "JPN",
+        "CountryISOTwoLetterCode": "JP",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "BGN",
+        "CurrencySymbol": "лв.",
+        "CurrencyEnglishName": "Bulgarian Lev",
+        "CountryName": "Bulgaria",
+        "CountryThreeLetterCode": "BGR",
+        "CountryISOTwoLetterCode": "BG",
+        "IsEuropeanUnionMember": true
+      },
+      {
+        "ISOCurrencyCode": "CZK",
+        "CurrencySymbol": "Kč",
+        "CurrencyEnglishName": "Czech Republic Koruna",
+        "CountryName": "Czechia",
+        "CountryThreeLetterCode": "CZE",
+        "CountryISOTwoLetterCode": "CZ",
+        "IsEuropeanUnionMember": true
+      },
+      {
+        "ISOCurrencyCode": "DKK",
+        "CurrencySymbol": "kr.",
+        "CurrencyEnglishName": "Danish Krone",
+        "CountryName": "Denmark",
+        "CountryThreeLetterCode": "DNK",
+        "CountryISOTwoLetterCode": "DK",
+        "IsEuropeanUnionMember": true
+      },
+      {
+        "ISOCurrencyCode": "GBP",
+        "CurrencySymbol": "£",
+        "CurrencyEnglishName": "British Pound",
+        "CountryName": "Guernsey",
+        "CountryThreeLetterCode": "GGY",
+        "CountryISOTwoLetterCode": "GG",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "HUF",
+        "CurrencySymbol": "Ft",
+        "CurrencyEnglishName": "Hungarian Forint",
+        "CountryName": "Hungary",
+        "CountryThreeLetterCode": "HUN",
+        "CountryISOTwoLetterCode": "HU",
+        "IsEuropeanUnionMember": true
+      },
+      {
+        "ISOCurrencyCode": "PLN",
+        "CurrencySymbol": "zł",
+        "CurrencyEnglishName": "Polish Zloty",
+        "CountryName": "Poland",
+        "CountryThreeLetterCode": "POL",
+        "CountryISOTwoLetterCode": "PL",
+        "IsEuropeanUnionMember": true
+      },
+      {
+        "ISOCurrencyCode": "RON",
+        "CurrencySymbol": "RON",
+        "CurrencyEnglishName": "Romanian Leu",
+        "CountryName": "Romania",
+        "CountryThreeLetterCode": "ROU",
+        "CountryISOTwoLetterCode": "RO",
+        "IsEuropeanUnionMember": true
+      },
+      {
+        "ISOCurrencyCode": "SEK",
+        "CurrencySymbol": "kr",
+        "CurrencyEnglishName": "Swedish Krona",
+        "CountryName": "Sweden",
+        "CountryThreeLetterCode": "SWE",
+        "CountryISOTwoLetterCode": "SE",
+        "IsEuropeanUnionMember": true
+      },
+      {
+        "ISOCurrencyCode": "CHF",
+        "CurrencySymbol": "CHF",
+        "CurrencyEnglishName": "Swiss Franc",
+        "CountryName": "Liechtenstein",
+        "CountryThreeLetterCode": "LIE",
+        "CountryISOTwoLetterCode": "LI",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "ISK",
+        "CurrencySymbol": "ISK",
+        "CurrencyEnglishName": "Icelandic Króna",
+        "CountryName": "Iceland",
+        "CountryThreeLetterCode": "ISL",
+        "CountryISOTwoLetterCode": "IS",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "NOK",
+        "CurrencySymbol": "kr",
+        "CurrencyEnglishName": "Norwegian Krone",
+        "CountryName": "Norway",
+        "CountryThreeLetterCode": "NOR",
+        "CountryISOTwoLetterCode": "NO",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "HRK",
+        "CurrencySymbol": "kn",
+        "CurrencyEnglishName": "Croatian Kuna",
+        "CountryName": "Croatia",
+        "CountryThreeLetterCode": "HRV",
+        "CountryISOTwoLetterCode": "HR",
+        "IsEuropeanUnionMember": true
+      },
+      {
+        "ISOCurrencyCode": "TRY",
+        "CurrencySymbol": "₺",
+        "CurrencyEnglishName": "Turkish Lira",
+        "CountryName": "Turkey",
+        "CountryThreeLetterCode": "TUR",
+        "CountryISOTwoLetterCode": "TR",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "AUD",
+        "CurrencySymbol": "$",
+        "CurrencyEnglishName": "Australian Dollar",
+        "CountryName": "Australia",
+        "CountryThreeLetterCode": "AUS",
+        "CountryISOTwoLetterCode": "AU",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "BRL",
+        "CurrencySymbol": "R$",
+        "CurrencyEnglishName": "Brazilian Real",
+        "CountryName": "Brazil",
+        "CountryThreeLetterCode": "BRA",
+        "CountryISOTwoLetterCode": "BR",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "CAD",
+        "CurrencySymbol": "$",
+        "CurrencyEnglishName": "Canadian Dollar",
+        "CountryName": "Canada",
+        "CountryThreeLetterCode": "CAN",
+        "CountryISOTwoLetterCode": "CA",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "CNY",
+        "CurrencySymbol": "¥",
+        "CurrencyEnglishName": "Chinese Yuan",
+        "CountryName": "China",
+        "CountryThreeLetterCode": "CHN",
+        "CountryISOTwoLetterCode": "CN",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "HKD",
+        "CurrencySymbol": "HK$",
+        "CurrencyEnglishName": "Hong Kong Dollar",
+        "CountryName": "Hong Kong",
+        "CountryThreeLetterCode": "HKG",
+        "CountryISOTwoLetterCode": "HK",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "IDR",
+        "CurrencySymbol": "Rp",
+        "CurrencyEnglishName": "Indonesian Rupiah",
+        "CountryName": "Indonesia",
+        "CountryThreeLetterCode": "IDN",
+        "CountryISOTwoLetterCode": "ID",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "ILS",
+        "CurrencySymbol": "₪",
+        "CurrencyEnglishName": "Israeli New Shekel",
+        "CountryName": "Israel",
+        "CountryThreeLetterCode": "ISR",
+        "CountryISOTwoLetterCode": "IL",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "KRW",
+        "CurrencySymbol": "₩",
+        "CurrencyEnglishName": "South Korean Won",
+        "CountryName": "Korea, Republic of",
+        "CountryThreeLetterCode": "KOR",
+        "CountryISOTwoLetterCode": "KR",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "MXN",
+        "CurrencySymbol": "$",
+        "CurrencyEnglishName": "Mexican Peso",
+        "CountryName": "Mexico",
+        "CountryThreeLetterCode": "MEX",
+        "CountryISOTwoLetterCode": "MX",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "MYR",
+        "CurrencySymbol": "RM",
+        "CurrencyEnglishName": "Malaysian Ringgit",
+        "CountryName": "Malaysia",
+        "CountryThreeLetterCode": "MYS",
+        "CountryISOTwoLetterCode": "MY",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "NZD",
+        "CurrencySymbol": "$",
+        "CurrencyEnglishName": "New Zealand Dollar",
+        "CountryName": "Cook Islands",
+        "CountryThreeLetterCode": "COK",
+        "CountryISOTwoLetterCode": "CK",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "PHP",
+        "CurrencySymbol": "₱",
+        "CurrencyEnglishName": "Philippine Peso",
+        "CountryName": "Philippines",
+        "CountryThreeLetterCode": "PHL",
+        "CountryISOTwoLetterCode": "PH",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "SGD",
+        "CurrencySymbol": "$",
+        "CurrencyEnglishName": "Singapore Dollar",
+        "CountryName": "Singapore",
+        "CountryThreeLetterCode": "SGP",
+        "CountryISOTwoLetterCode": "SG",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "THB",
+        "CurrencySymbol": "฿",
+        "CurrencyEnglishName": "Thai Baht",
+        "CountryName": "Thailand",
+        "CountryThreeLetterCode": "THA",
+        "CountryISOTwoLetterCode": "TH",
+        "IsEuropeanUnionMember": false
+      },
+      {
+        "ISOCurrencyCode": "ZAR",
+        "CurrencySymbol": "R",
+        "CurrencyEnglishName": "South African Rand",
+        "CountryName": "Lesotho",
+        "CountryThreeLetterCode": "LSO",
+        "CountryISOTwoLetterCode": "LS",
+        "IsEuropeanUnionMember": false
+      }
+    ]
+}
