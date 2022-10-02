@@ -74,3 +74,47 @@ exports.getUserDetails = async (req, res, next) => {
     res.status(400).json(error.message);
   }
 };
+
+// register wallet 
+exports.registerWallet = async (req, res, next) => {
+  try {
+    const { id } = req.body;
+
+    const User = await userSchema.create({
+      cryptoWalletId: id
+    });
+    sendtoken(User, 201, res);
+
+  } catch (err) {
+    if (err.code === 11000) {
+      let dup = Object.keys(err.keyValue)[0];
+      return next(
+        new ErrorHandler(`a user with that ${dup} already exists`, 400)
+      );
+    }
+    return next( new ErrorHandler(err))
+  }
+};
+
+// add wallet
+exports.addWallet = async (req, res, next) => {
+  try {
+    const userId = req.body.userId
+    const walletData = {
+      cryptoWalletId: req.body.walletId
+    };
+
+    const User = await userSchema.findByIdAndUpdate(userId , walletData, {
+      new: true,
+      runValidators: true,
+      useFindAndModify: false,
+    });
+
+    res.status(200).json({
+      success: true,
+      User,
+    });
+  } catch (error) {
+    res.status(400).json(error.message);
+  }
+};
